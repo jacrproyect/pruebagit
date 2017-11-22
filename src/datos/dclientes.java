@@ -9,7 +9,7 @@ import java.sql.Date;
 
 /**
  *
- * @author HP
+ * @author HP-primer cambio realizado por jose castillo romero 
  */
 public class dclientes {
     private int _codigocliente;
